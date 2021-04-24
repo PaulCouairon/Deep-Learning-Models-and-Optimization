@@ -4,9 +4,9 @@ In this Notebook we propose a detailed study and an implementation of the articl
 
 Project done as part of the Deep Learning: Models and Optimization course, taught during the third year of the engineering cycle at ENSAE Paris, supervised by M. Cuturi. 
 
-** Authors**: Paul Couairon, Loïc Jourdan
+**Authors**: Paul Couairon, Loïc Jourdan
 
-** April 24th, 2021**
+**April 24th, 2021**
 
 ## Notebook 
 
